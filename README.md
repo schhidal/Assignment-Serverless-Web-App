@@ -1,2 +1,2 @@
 # Assignment-Serverless-Web-App
-Codes are copied from the Github Sources for practice.
+Some codes were accessed from GitHub.
